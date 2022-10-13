@@ -13,5 +13,5 @@ app.get('/',(req, res)=>{
     res.send('hellow world')
 })
 app.listen(4000, ()=> {
-    console.log('listining');
+    console.log('listininggg');
 })
